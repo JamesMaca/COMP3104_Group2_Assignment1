@@ -1,2 +1,6 @@
 File Author: Ritchel Rey Etchorre - 101358231
 Modified Date: Thursday, October 6th, 2023
+
+Comp3104 DEVOPS is one of the courses offered for the T177 Program in George Brown College
+It is offered during Fall Semester of the Program
+It is one of the courses during semester 5 for T177 Program
