@@ -11,7 +11,7 @@
 - 101362896_devops.txt
 - 101362896_gb.txt
 - 101362896_sdlc.txt
-- 
+  
 ## Branch: 101272540_vincentnhar
 - README.md
 - 101272540_devops.txt
