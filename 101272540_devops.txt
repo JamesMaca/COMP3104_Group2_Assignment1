@@ -1,0 +1,7 @@
+COMP 3104 is one of the courses offered in the Computer Programming Analysis
+program at George Brown. It is scheduled for Semester 5 of the program and
+during the Fall 2023 semester, Prof. Pritesh Patel is the professor.
+
+This course allows me to see what's behind the industry through the lens of a 
+DevOps engineer. It teaches me how to effectively use tools such as GitHub and 
+how they can expedite the creation of a new project.

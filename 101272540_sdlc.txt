@@ -1,0 +1,21 @@
+There are several reasons as to why learning DevOps plays an important
+role in software development cycle:
+
+    - DevOps practices helps speed up how quickly we can give users new 
+      software.
+
+    - DevOps tools and practices reduce the chance of making mistakes in the 
+      software
+
+    - DevOps makes teams work together better
+
+    - DevOps uses computer programs to test and put software into use which 
+      means less manual work which saves time and reduces errors
+
+    - DevOps can help organizations scale their infrastructure and resources 
+      efficiently
+
+    - DevOps uses feedback from users to make the software better over time.
+
+    - DevOps can make companies stay ahead in their industry because they can 
+      adapt quickly.
