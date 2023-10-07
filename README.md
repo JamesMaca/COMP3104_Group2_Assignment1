@@ -4,7 +4,7 @@
   - James MacAloney - 101362896 - Repo Owner
   - Stefan Kepinski - 101356431
   - Ritchel Rey Etchorre - 101358231
-  - Vincent - 101272540
+  - Vincent Calonzo - 101272540
 
 ## Branch: 101362896_JamesMacAloney
 - README.md
