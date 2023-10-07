@@ -1,0 +1,3 @@
+THE COMP 3104 prof is Pritesh Patel!
+
+In COMP 3105 we are learning how to use git to use in industry!
