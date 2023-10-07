@@ -1,2 +1,8 @@
 File Author: Ritchel Rey Etchorre - 101358231
 Modified Date: Thursday, October 6th, 2023
+
+Learning DevOps engineering is crucial in the software development cycle for several important reasons
+Efficiency and Speed: DevOps practices emphasize automation and collaboration between development and operations teams. 
+This leads to faster development cycles, quicker releases,
+and reduced time-to-market for software products. Learning DevOps helps streamline processes,
+ reducing manual work and bottlenecks and many more.
